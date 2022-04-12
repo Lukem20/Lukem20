@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lukem20
 - 👀 I’m interested in ... Full-stack web development and the outdoors.
-- 🌱 I’m currently learning ... Javascript, React.js, Next.js, and SQL
-- 💞️ I’m looking to collaborate on ... Anything about environmentalism or biodiversity conservation.
+- 🌱 I’m currently learning ... Typescript, Node.js, Google Cloud Platform, and Next.js
+- 💞️ I’m looking to collaborate on ... Anything about environmentalism or biodiversity conservation. I plan on starting a Mountain Project(climbing app) clone soon!
 - 📫 How to reach me ... 
 
 <!---
