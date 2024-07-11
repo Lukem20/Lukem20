@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luke Moore. I'm a web & frontend developer.
+- 👋 Hi, I’m Luke Moore. I'm a web designer & frontend developer.
 - 🌱 I’m currently learning ... Three.js, .
 - 📫 How to reach me ... [https::](https://luke-moore.net/about#contact)
 
