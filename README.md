@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Lukem20
-- 👀 I’m interested in ... Frontend & web development.
-- 🌱 I’m currently learning ... Forever a student, currently focusing on learning Three.js, and grinding to master JavaScript and accessibility.
+- 👋 Hi, I’m Luke Moore. I'm a web & frontend developer.
+- 🌱 I’m currently learning ... Three.js, .
 - 📫 How to reach me ... [https::](https://luke-moore.net/about#contact)
 
 <!---
